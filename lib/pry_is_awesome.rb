@@ -10,3 +10,14 @@ def prying_into_the_method
 end
 
 prying_into_the_method
+def plus_two(num)
+	num + 2
+	num
+end 
+end
+
+# Alternative solution
+# def plus_two(num)
+	  # num = num + 2
+	  # num
+# end 
