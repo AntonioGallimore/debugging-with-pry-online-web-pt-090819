@@ -7,5 +7,8 @@ describe "#plus_two" do
 	end
 def plus_two(num)
     num + 2
-    return num +2
+    num
+  binding.pry 
+  end
+  
 end
